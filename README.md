@@ -1,4 +1,4 @@
-# Simple Node.js API
+# Node.js API
 
 This is a Node.js API project configured to run using `npm start`.
 
