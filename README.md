@@ -1,1 +1,2 @@
-"# VirtualNetCelBackend" 
+npm install
+npm start
